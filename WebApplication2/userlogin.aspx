@@ -11,6 +11,7 @@
                      <div class="col">
                         <center>
                            <img width="150px" src="imgs/generaluser.png"/>
+
                         </center>
                      </div>
                   </div>
